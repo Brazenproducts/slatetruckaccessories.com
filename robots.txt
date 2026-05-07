@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://slatetruckaccessories.com/sitemap.xml
